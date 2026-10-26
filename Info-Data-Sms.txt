@@ -1,0 +1,7 @@
+# عدّل القيم أدناه حسب مشروعك (مثل رابط قاعدة بياناتك الخاصة).
+# تم حذف بقية المتغيرات الداخلية الخاصة بمنصة HappySeeds من هذا الملف لأسباب أمنية.
+DATABASE_URL=postgresql://neondb_owner:npg_i7TQY3uRZFPj@ep-late-tooth-ayn8lbac-pooler.c-5.us-east-2.aws.neon.tech/neondb?sslmode=require
+LLM_API_KEY=xxx
+LLM_BASE_URL=example
+NEXT_PUBLIC_UMAMI_SCRIPT_URL=https://your-umami-domain/script.js
+NEXT_PUBLIC_UMAMI_WEBSITE_ID=your-website-id
